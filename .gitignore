@@ -1,0 +1,28 @@
+# Folder
+uploads/
+__old/
+.vscode/
+
+# Image
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+
+# Video
+*.mp4
+*.mkv
+*.mov
+*.webm
+
+# Audio
+*.mp3
+*.aoc
+*.aac
+
+# Compact Files
+*.zip
+*.7z
+*.rar
+*.gz
